@@ -1,0 +1,16 @@
+legend 	{
+	font-weight: bold;
+}
+
+fieldset {
+  margin-bottom: 15px;
+}
+
+ul {
+list-style-type: none;
+}
+
+body {
+  max-width: 700px;
+  padding: 0px 20px;
+}
